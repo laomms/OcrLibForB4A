@@ -8,8 +8,8 @@ Sub Globals
 End Sub
 
 Sub Activity_Create(FirstTime As Boolean)
-    '...
-	  avocr.Initialize("avocr")
+    '...   
+    avocr.Initialize("avocr")
 End Sub
 
 Sub startDetection()
