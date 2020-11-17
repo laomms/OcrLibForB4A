@@ -1,6 +1,6 @@
 # OcrLibForB4A
 
-touse:
+to use:
 
 ```vb
 Sub Globals
