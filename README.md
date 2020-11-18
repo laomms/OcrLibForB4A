@@ -1,8 +1,16 @@
 # OcrLibForB4A
 
+
+
 to use:
 
 ```vb
+
+    #Extends: android.support.v7.app.AppCompatActivity
+    #additionaljar:com.android.support:support-media-compat
+    #AdditionalRes: ..\resource
+    #AdditionalRes: ..\OCRres
+    
 Sub Globals
 	  Dim avocr As OcrLib
 End Sub
