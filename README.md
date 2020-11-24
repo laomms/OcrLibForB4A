@@ -1,5 +1,6 @@
 # OcrLibForB4A
 
+original source:https://github.com/prakashpun/TextRecognitionAndroid 
 
 ![image](https://github.com/laomms/OcrLibForB4A/blob/main/cid2.gif)  
 
